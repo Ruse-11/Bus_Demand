@@ -1,5 +1,3 @@
-# moving_camera_passenger_counter_v3.py
-
 import cv2
 import numpy as np
 from ultralytics import YOLO
